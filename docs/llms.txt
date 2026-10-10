@@ -1,0 +1,38 @@
+# Wordfair
+
+> Wordfair is a free, open-source essay word counter that leaves out your reference list, footnotes, in-text citations and quotations, and checks your total against your word limit.
+
+- Website: https://ashgar99.github.io/wordfair/
+- Source code: https://github.com/ashgar99/wordfair
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Leaves out the reference list or bibliography
+- Leaves out footnotes, endnotes and headings in Word documents
+- Optionally leaves out in-text citations and quotations
+- Checks the total against your word limit and a 10% margin
+- Counts words like Microsoft Word, with Chinese, Japanese and Korean characters counted individually
+
+## Questions and answers
+
+### What is Wordfair?
+
+Wordfair is a free, open-source essay word counter that leaves out your reference list, footnotes, in-text citations and quotations, and checks your total against your word limit.
+
+### Do references count towards the word count?
+
+At most UK universities, the reference list or bibliography does not count towards the word limit. Wordfair leaves it out automatically. Check your department’s guidance, as rules vary.
+
+### Do footnotes count in the word count?
+
+It depends on your department. Many exclude footnotes that only contain references but count discursive footnotes. Wordfair reads footnotes from Word documents and lets you include or exclude them.
+
+### Do in-text citations count towards the word count?
+
+Some departments count in-text citations such as (Smith, 2020) and some do not. Wordfair can leave them out with one switch.
+
+### Is my essay uploaded anywhere?
+
+No. Wordfair reads your text or Word document in your browser and never uploads it.
